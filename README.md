@@ -1,2 +1,2 @@
 # Risk-Model-from-Epidemiology-dataset
-a decision tree and random forest models to predict 10 years risk of death of individuals.
+The model was built using decision tree and random forest to predict 10 years risk of death of individuals from an epidemiology dataset.
